@@ -1,7 +1,24 @@
-# Pokédex com Vue.js
+# pokdex
 
-Repositório desenvolvido para o desafio da **Seleção Labens 2025** - Desafios Frontend.
+## Project setup
+```
+npm install
+```
 
-### Descrição
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-Aplicação web interativa que simula uma Pokédex, permitindo aos usuários explorar e consultar informações detalhadas sobre diversos Pokémons, como nome, tipo, habilidades e muito mais.
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
